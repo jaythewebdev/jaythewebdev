@@ -29,7 +29,7 @@ I'm always eager to dive into frameworks and libraries that enhance productivity
 ✨ Staying up to date with the latest industry trends, attending tech meetups, and engaging in online communities to exchange knowledge and ideas are some of the ways I continuously learn and grow in this field. 📚
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaythewebdev&show_icons=true&locale=en&layout=compact" alt="jaythewebdev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaythewebdev&show_icons=true&locale=en&layout=compact" alt="jaythewebdev" />
 </p>
 
 📫 If you have any questions, suggestions, or exciting opportunities, feel free to reach out. Let's connect and make a positive impact together! 😊
