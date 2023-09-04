@@ -36,8 +36,8 @@ I'm always eager to dive into frameworks and libraries that enhance productivity
 
 <h3>Connect with me:</h3>
 <p align="left">
-  <a align="left" href="https://linkedin.com/in/https://www.linkedin.com/in/jayasurya-m-1a82b0198/" target="blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayasurya-m-1a82b0198/" height="30" width="40" />
+  <a  href="https://linkedin.com/in/https://www.linkedin.com/in/jayasurya-m-1a82b0198/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayasurya-m-1a82b0198/" height="30" width="40" />
   </a>
 </p>
 
