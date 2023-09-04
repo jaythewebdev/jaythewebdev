@@ -35,13 +35,13 @@ I'm always eager to dive into frameworks and libraries that enhance productivity
 📫 If you have any questions, suggestions, or exciting opportunities, feel free to reach out. Let's connect and make a positive impact together! 😊
 
 <h3>Connect with me:</h3>
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/jayasurya-m-1a82b0198/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayasurya-m-1a82b0198/" height="30" width="40" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaythewebdev&" alt="jaythewebdev" />
 </p>
 
