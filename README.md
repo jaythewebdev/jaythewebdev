@@ -28,14 +28,20 @@ I'm always eager to dive into frameworks and libraries that enhance productivity
 
 ✨ Staying up to date with the latest industry trends, attending tech meetups, and engaging in online communities to exchange knowledge and ideas are some of the ways I continuously learn and grow in this field. 📚
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaythewebdev&show_icons=true&locale=en&layout=compact" alt="jaythewebdev" /><br/></p>
-
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaythewebdev&show_icons=true&locale=en&layout=compact" alt="jaythewebdev" />
+</p>
 
 📫 If you have any questions, suggestions, or exciting opportunities, feel free to reach out. Let's connect and make a positive impact together! 😊
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jayasurya-m-1a82b0198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayasurya-m-1a82b0198/" height="30" width="40" /></a>
+<h3>Connect with me:</h3>
+<p>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/jayasurya-m-1a82b0198/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayasurya-m-1a82b0198/" height="30" width="40" />
+  </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaythewebdev&" alt="jaythewebdev" /></p>
+<p>&nbsp;</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaythewebdev&" alt="jaythewebdev" />
+</p>
