@@ -43,6 +43,6 @@ I'm always eager to dive into frameworks and libraries that enhance productivity
 
 <br/>
 <p align="left">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jaythewebdev&" alt="jaythewebdev" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaythewebdev&" alt="jaythewebdev" />
 </p>
 
