@@ -37,4 +37,4 @@ I'm always eager to dive into frameworks and libraries that enhance productivity
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaythewebdev&show_icons=true&locale=en&layout=compact" alt="jaythewebdev" /></p>
 
-&nbsp<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaythewebdev&" alt="jaythewebdev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaythewebdev&" alt="jaythewebdev" /></p>
