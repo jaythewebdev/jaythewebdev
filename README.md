@@ -32,7 +32,7 @@ I'm always eager to dive into frameworks and libraries that enhance productivity
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaythewebdev&show_icons=true&locale=en&layout=compact" alt="jaythewebdev" />
 </p>
 
-📫 If you have any questions, suggestions, or exciting opportunities, feel free to reach out. Let's connect and make a positive impact together! 😊
+📫 If you have any questions, suggestions, or exciting opportunities, feel free to reach out. Let's connect & make a positive impact together! 😊
 
 <h3>Connect with me:</h3>
 <p align="left">
